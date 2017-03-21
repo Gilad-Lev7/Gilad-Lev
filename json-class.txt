@@ -1,0 +1,18 @@
+[
+{
+    "class":17A,
+    "student":{
+	"first_name": "John",
+	"last_name": "Peterson",
+	"id": 123,
+
+    "grades":{
+	"subject-1:70,
+	"subject-2:69,
+	"subject-3:92,
+	"subject-4:83,
+	"subject-5:80,
+		}	
+	}
+}
+]
