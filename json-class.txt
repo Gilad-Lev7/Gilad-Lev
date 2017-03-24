@@ -1,6 +1,7 @@
 [
 {
-    "class":17A,
+"class":{
+    "class_number":17A,
     "student":{
 	"first_name": "John",
 	"last_name": "Peterson",
