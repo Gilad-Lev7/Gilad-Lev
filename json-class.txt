@@ -7,11 +7,11 @@
 	"id": 123,
 
     "grades":{
-	"subject-1:70,
-	"subject-2:69,
-	"subject-3:92,
-	"subject-4:83,
-	"subject-5:80,
+	"math:70,
+	"biology:69,
+	"history:92,
+	"english:83,
+	"sql:80,
 		}	
 	}
 }
