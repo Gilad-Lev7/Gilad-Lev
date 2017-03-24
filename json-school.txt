@@ -1,0 +1,21 @@
+[
+{
+"school":{
+school_name:"ort",
+"class":{
+    "class_number":17A,
+    "student":{
+	"first_name": "John",
+	"last_name": "Peterson",
+	"id": 123,
+
+    "grades":{
+	"math:70,
+	"biology:69,
+	"history:92,
+	"english:83,
+	"sql:80,
+		}	
+	}
+}
+]
